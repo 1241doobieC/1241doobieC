@@ -1,5 +1,5 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)
+![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)  
 🌱 I’m currently a student at Computer Science Department(NTNU)
 <!--
 **1241doobieC/1241doobieC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
