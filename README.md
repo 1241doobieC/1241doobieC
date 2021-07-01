@@ -1,4 +1,5 @@
 ### Hi there 👋
+🌱 I’m currently learning C & J
 
 <!--
 **1241doobieC/1241doobieC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
