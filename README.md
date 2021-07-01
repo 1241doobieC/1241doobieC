@@ -1,5 +1,7 @@
 ### Hi there 👋
+<!--
 ![info](https://github-readme-stats.vercel.app/api?username=1241doobieC&show_icons=true&count_private=true&hide=prs&theme=default_repocard)  
+-->
 🔭 I’m currently a student at Computer Science Department(NTNU)  
 🌱 I’m currently learning Java & C  
   
