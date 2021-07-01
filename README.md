@@ -1,6 +1,6 @@
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=CasterWx.readme)  
-![](http://antzuhl.cn:4000/get/@1241doobieC.readme)  
+![info](https://github-readme-stats.vercel.app/api?username=1241doobieC&show_icons=true&count_private=true&hide=prs&theme=default_repocard)  
 🌱 I’m currently a student at Computer Science Department(NTNU)  
 <!--
 **1241doobieC/1241doobieC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
