@@ -2,9 +2,11 @@
 <h3 align="center">a passionate software engineer and technology enthusiast.</h3>
 
 
-- 🌱 I’m currently learning **gRPC, AWS SES**
+- 🚀 Tech Stack: TypeScript, Nest.js, Express.js, AWS
 
-- 💬 Ask me about **TypeScript, Nest.Js, Express.JS**
+💡 Some Experience With: Email Deliverability (DMARC, DKIM, SPF), Message Queues (RabbitMQ), NoSQL Databases (MongoDB, CouchbaseDB)
+
+- 💬 Ask me about **TypeScript, Nest.js, Express.js, Cloud Engineering**
 
 
 <h3 align="left">Languages and Tools:</h3>
