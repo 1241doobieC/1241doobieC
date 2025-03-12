@@ -4,7 +4,7 @@
 
 - 🚀 Tech Stack: TypeScript, Nest.js, Express.js, AWS
 
-💡 Some Experience With: Email Deliverability (DMARC, DKIM, SPF), Message Queues (RabbitMQ), NoSQL Databases (MongoDB, CouchbaseDB)
+- 💡 Some Experience With: Email Deliverability (DMARC, DKIM, SPF), Message Queues (RabbitMQ), NoSQL Databases (MongoDB, CouchbaseDB)
 
 - 💬 Ask me about **TypeScript, Nest.js, Express.js, Cloud Engineering**
 
